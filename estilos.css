@@ -1,0 +1,20 @@
+.encabezado{
+color:black;
+height: 400px;
+background-image: url(https://images.unsplash.com/photo-1613993995046-07bce4b0bfed?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80);
+background-size: cover;
+background-position: center;
+background-color: rgba(0,0,0,0.3);
+background-blend-mode: darken ;
+}
+p{
+    font-family: century-old-style-std, serif;
+}
+
+
+.card-title{
+    min-height: 2rem;
+}
+.card-text{
+    min-height: 5rem;
+}
